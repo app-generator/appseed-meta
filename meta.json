@@ -1,9 +1,9 @@
 {
     "info": "AppSeed - Meta Information",
     "base_kits": [
-        "volt-bootstrap-5-dashboard",
+        "base_volt_bootstrap_5_dashboard.json",
     ],
     "jinja": [
-        "jinja-volt-dashboard",
+        "jinja_volt_dashboard.json",
     ]    
 }
