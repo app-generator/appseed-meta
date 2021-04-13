@@ -1,0 +1,7 @@
+{
+    "repo": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "build": "yarn | npm install gulp-cli -g | gulp build:dev",
+    "output": "html&css",
+    "build_prod": "yarn | npm install gulp-cli -g | gulp build:dev",
+    "output_prod": "dist"
+}
