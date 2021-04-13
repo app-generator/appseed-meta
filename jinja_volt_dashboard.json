@@ -1,0 +1,15 @@
+{
+    "name": "Jinja Volt (free version)",
+    "description": "Open-source Flask/Jinja project",
+    "root_dir": "D:\\work\\repo-themesberg\\jinja-volt-dashboard\\",
+    "templates": ["app\\templates\\"],
+    "map": {
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../../vendor": "/static/assets/vendor"
+    },
+    "base": {
+        "meta": "base_volt_bootstrap_5_dashboard.json"
+    }
+}
