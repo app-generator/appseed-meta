@@ -1,0 +1,37 @@
+{
+    "info": "Jinja Volt PRO",
+    "root_dir": "D:\\work\\repo-themesberg\\priv-jinja-template-volt-pro\\",
+    "templates": ["app\\templates\\", "app\\static\\assets\\css", "app\\static\\assets\\js"],
+    "repo": "https://github.com/app-generator/priv-jinja-template-volt-pro",
+    "product": "https://appseed.us/jinja-template/jinja-template-volt-pro",
+    "demo": "https://jinja-volt-pro.appseed-srv1.com/",
+    "map": {
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../../vendor": "/static/assets/vendor",
+        "../vendor": "/static/assets/vendor",
+        "./vendor": "/static/assets/vendor",
+        "../../css": "/static/assets/css",
+        "../css": "/static/assets/css",
+        "./css": "/static/assets/css",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "/tables/": "/tables-",
+        "/examples/": "/page-",
+        "/components/": "/components-",
+        "dashboard/traffic-sources.html": "dashboard-traffic-sources.html",
+        "dashboard/app-analysis.html": "dashboard-app-analysis.html",
+        "/dashboard/": "",
+        "..dashboard.html": "/dashboard.html"
+    },
+    "base": {
+        "info": "Volt PRO and Jinja Codebase",
+        "ui": "base_volt_premium_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

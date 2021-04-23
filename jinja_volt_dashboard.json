@@ -1,8 +1,10 @@
 {
-    "name": "Jinja Volt (free version)",
-    "description": "Open-source Flask/Jinja project",
+    "info": "Jinja Volt (free version)",
     "root_dir": "D:\\work\\repo-themesberg\\jinja-volt-dashboard\\",
     "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-volt-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-template-volt-dashboard",
+    "demo": "https://jinja-volt-dashboard.appseed-srv1.com/",
     "map": {
         "../../assets": "/static/assets",
         "../assets": "/static/assets",
@@ -10,6 +12,8 @@
         "../../vendor": "/static/assets/vendor"
     },
     "base": {
-        "meta": "base_volt_bootstrap_5_dashboard.json"
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
     }
 }

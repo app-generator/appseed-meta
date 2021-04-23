@@ -1,5 +1,8 @@
 {
+    "info": "Volt Bootstrap 5 (free version)",
     "repo": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "product": "https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard",
+    "demo": "https://demo.themesberg.com/volt/",
     "build": "yarn | npm install gulp-cli -g | gulp build:dev",
     "output": "html&css",
     "build_prod": "yarn | npm install gulp-cli -g | gulp build:dev",
