@@ -1,0 +1,31 @@
+{
+    "info": "Jinja Pixel Lite (free version)",
+    "root_dir": "D:\\work\\repo-themesberg\\jinja-pixel-lite\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-pixel-lite",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-pixel-lite.appseed-srv1.com/",
+    "map": {
+        "../../html/components/": "/ui-",
+        "../html/components/": "/ui-",
+        "./html/components/": "/ui-",
+        "../../html/pages/": "/",
+        "../html/pages/": "/",
+        "./html/pages/": "/",
+        ".//assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../../css": "/static/assets/css",
+        "../css": "/static/assets/css",
+        "./css": "/static/assets/css",
+        "../../vendor": "/static/assets/vendor",
+        "../vendor": "/static/assets/vendor",
+        "./vendor": "/static/assets/vendor"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
