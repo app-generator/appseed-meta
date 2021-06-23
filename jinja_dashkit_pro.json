@@ -1,0 +1,19 @@
+{
+    "info": "Dashkit PRO (Premium version)",
+    "root_dir": "D:\\work\\repo-cssninja\\priv-jinja-dashkit-pro\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-volt-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-template-volt-dashboard",
+    "demo": "https://jinja-dashkit-pro.appseed-srv1.com/",
+    "map": {
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../../vendor": "/static/assets/vendor"
+    },
+    "base": {
+        "info": "Dashkit PRO and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
