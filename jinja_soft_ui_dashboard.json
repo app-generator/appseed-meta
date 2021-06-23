@@ -1,0 +1,26 @@
+{
+    "info": "Soft UI Dashboard",
+    "root_dir": "D:\\work\\repo-creative-tim\\jinja-soft-ui-dashboard\\",
+    "templates": ["app\\templates\\", "app\\static\\assets\\css", "app\\static\\assets\\js"],
+    "repo": "https://github.com/app-generator/jinja-soft-ui-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-soft-ui-dashboard",
+    "demo": "https://jinja-soft-ui-dashboard.appseed-srv1.com/",
+    "map": {
+        "dashboard.html": "index.html",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "/pages/": "/"
+    },
+    "base": {
+        "info": "Soft UI and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
