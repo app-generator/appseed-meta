@@ -1,0 +1,21 @@
+{
+    "info": "Jinja Pixel Lite (free version)",
+    "root_dir": "D:\\work\\repo-misc\\jinja-sb-admin\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-sb-admin",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-sb-admin.appseed-srv1.com/",
+    "map": {
+        "assets/": "/static/assets/",
+        "css/": "/static/assets/css/",
+        "\"js/": "\"/static/assets/js/",
+        "401.html": "page-403.html",
+        "404.html": "page-404.html",
+        "500.html": "page-500.html"
+    },
+    "base": {
+        "info": "Sb Admin and Jinja Codebase",
+        "ui": "",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
