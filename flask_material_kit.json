@@ -1,0 +1,22 @@
+{
+    "info": "Flask Material Kit (free version)",
+    "root_dir": "D:\\work\\repo-creative-tim\\flask-material-kit\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/flask-material-kit",
+    "product": "https://appseed.us",
+    "demo": "#",
+    "map": {
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        "../css": "/static/assets/css",
+        "./css": "/static/assets/css",
+        "../vendor": "/static/assets/vendor",
+        "./vendor": "/static/assets/vendor",
+        "examples/": "/"
+    },
+    "base": {
+        "info": "Material Kit Free & Flask",
+        "ui": "#",
+        "codebase": "https://github.com/app-generator/boilerplate-code-flask"
+    }
+}
