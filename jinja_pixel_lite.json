@@ -6,6 +6,9 @@
     "product": "https://appseed.us",
     "demo": "https://jinja-pixel-lite.appseed-srv1.com/",
     "map": {
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
         "../../html/components/": "/ui-",
         "../html/components/": "/ui-",
         "./html/components/": "/ui-",

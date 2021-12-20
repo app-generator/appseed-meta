@@ -1,0 +1,74 @@
+{
+    "info": "Jinja Star Admin (free version)",
+    "root_dir": "D:\\work\\repo-bootstrapdash\\jinja-star-admin\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-material-kit",
+    "product": "https://appseed.us",
+    "demo": "#",
+    "map": {
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "../../../images": "/static/assets/images",
+        "../../images": "/static/assets/images",
+        "../images": "/static/assets/images",
+        "./images": "/static/assets/images",
+        "\"images": "\"/static/assets/images",
+
+        "../../../js": "/static/assets/js",
+        "../../js": "/static/assets/js",
+        "../js": "/static/assets/js",
+        "./js": "/static/assets/js",
+        "\"js": "\"/static/assets/js",
+
+        "../../../css": "/static/assets/css",
+        "../../css": "/static/assets/css",
+        "../css": "/static/assets/css",
+        "./css": "/static/assets/css",
+        "\"css": "\"/static/assets/css",
+
+        "../../../vendors": "/static/assets/vendors",
+        "../../vendors": "/static/assets/vendors",
+        "../vendors": "/static/assets/vendors",
+        "./vendors": "/static/assets/vendors",
+        "\"vendors": "\"/static/assets/vendors",
+
+        "../../pages/ui-features/": "/",
+        "../pages/ui-features/": "/",
+        "pages/ui-features/": "/",
+
+        "../../pages/forms/": "/",
+        "../pages/forms/": "/",
+        "pages/forms/": "/",
+
+        "../../pages/charts/": "/",
+        "../pages/charts/": "/",
+        "pages/charts/": "/",
+
+        "../../pages/tables/": "/",
+        "../pages/tables/": "/",
+        "pages/tables/": "/",
+
+        "../../pages/samples/": "/",
+        "../pages/samples/": "/",
+        "pages/samples/": "/",
+
+        "../../pages/icons/": "/icons-",
+        "../pages/icons/": "/icons-",
+        "pages/icons/": "/icons-",
+
+        "../../../pages/": "/",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "presentation.html": "/"
+    },
+    "base": {
+        "info": "Star Admin2 Free",
+        "ui": "#",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

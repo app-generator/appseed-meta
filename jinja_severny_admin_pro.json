@@ -1,0 +1,35 @@
+{
+    "info": "Severny Admin PRO",
+    "root_dir": "D:\\work\\repo-wrappixel\\priv-jinja-severny-pro\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/priv-jinja-severny-pro",
+    "product": "https://appseed.us/jinja-template/jinja-severny-pro",
+    "demo": "https://jinja-severny-pro.appseed-srv1.com/",
+    "map": {
+
+        "error-400.html": "page-400.html",
+        "error-403.html": "page-403.html",
+        "error-404.html": "page-404.html",
+        "error-500.html": "page-500.html",
+        "error-503.html": "page-503.html",
+
+        "../../dist": "/static/assets",
+        "../dist": "/static/assets",
+        "./dist": "/static/assets",
+
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/"
+
+    },
+    "base": {
+        "info": "Severny Admin PRO and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

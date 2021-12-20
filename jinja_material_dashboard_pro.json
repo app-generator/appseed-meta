@@ -1,0 +1,59 @@
+{
+    "info": "Material Dashboard BS4",
+    "root_dir": "D:\\work\\repo-creative-tim\\priv-jinja-material-dashboard-pro\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/priv-jinja-material-dashboard-pro",
+    "product": "https://appseed.us/jinja-template/jinja-material-dashboard-pro",
+    "demo": "https://jinja-material-dashboard-pro.appseed-srv1.com/",
+    "map": {
+        "../../examples/dashboard.html": "/",
+        "../examples/dashboard.html": "/",
+        "./examples/dashboard.html": "/",
+        "../dashboard.html": "/",
+        "dashboard.html": "",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../pages/": "/page-",
+        "../../pages/": "/page-",
+        "../pages/": "/page-",
+        "./pages/": "/page-",
+        "/pages/": "/page-",
+
+        "../../../components/": "/components-",
+        "../../components/": "/components-",
+        "../components/": "/components-",
+        "./components/": "/components-",
+        "/components/": "/components-",
+
+        "../../../forms/": "/forms-",
+        "../../forms/": "/forms-",
+        "../forms/": "/forms-",
+        "./forms/": "/forms-",
+        "/forms/": "/forms-",
+
+        "../../../maps/": "/maps-",
+        "../../maps/": "/maps-",
+        "../maps/": "/maps-",
+        "./maps/": "/maps-",
+        "/maps/": "/maps-",
+
+        "../../../tables/": "/tables-",
+        "../../tables/": "/tables-",
+        "../tables/": "/tables-",
+        "./tables/": "/tables-",
+        "/tables/": "/tables-",
+
+        "../../examples/": "/",
+        "../examples/": "/",
+        "/examples/": "/"
+    },
+    "base": {
+        "info": "Soft UI PRO and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

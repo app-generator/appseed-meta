@@ -1,0 +1,77 @@
+{
+    "info": "Material Kit PRO BS5",
+    "root_dir": "D:\\work\\repo-creative-tim\\priv-jinja-material-kit2-pro\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/priv-jinja-material-kit2-pro",
+    "product": "https://appseed.us/jinja-template/jinja-material-dashboard-pro",
+    "demo": "https://jinja-material-kit2-pro.appseed-srv1.com/",
+    "map": {
+
+        "https://demos.creative-tim.com/material-kit-pro/index": "/",
+        "https://www.creative-tim.com/product/material-design-system-pro#pricingCard": "https://appseed.us/product/flask-material-kit2-pro",
+        "error-404": "page-404",
+        "error-500": "page-500",
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "blog/author": "page-blog-author",
+        "blog/categories": "page-blog-categories",
+        "blog/single-article": "page-blog-single-article",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../pages/blog/": "/page-",
+        "../pages/blog/": "/page-",
+        "pages/blog/": "/page-",
+
+        "../../pages/reset/": "/page-",
+        "../pages/reset/": "/page-",
+        "pages/reset/": "/page-",
+
+        "../../pages/sign-in/": "/page-",
+        "../pages/sign-in/": "/page-",
+        "pages/sign-in/": "/page-",
+
+        "../../pages/sign-up/": "/page-",
+        "../pages/sign-up/": "/page-",
+        "pages/sign-up/": "/page-",
+
+        "../../sections/attention-catchers/": "/ui-catchers-",
+        "../sections/attention-catchers/": "/ui-catchers-",
+        "sections/attention-catchers/": "/ui-catchers-",
+
+        "../../sections/elements/": "/ui-elements-",
+        "../sections/elements/": "/ui-elements-",
+        "sections/elements/": "/ui-elements-",
+
+        "../../sections/input-areas/": "/ui-input-",
+        "../sections/input-areas/": "/ui-input-",
+        "sections/input-areas/": "/ui-input-",
+
+        "../../sections/navigation/": "/ui-navigation-",
+        "../sections/navigation/": "/ui-navigation-",
+        "sections/navigation/": "/ui-navigation-",
+
+        "../../sections/page-sections/": "/ui-sections-",
+        "../sections/page-sections/": "/ui-sections-",
+        "sections/page-sections/": "/ui-sections-",
+
+        "../../../pages/": "/",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "/pages/": "/"
+
+    },
+    "base": {
+        "info": "Soft UI PRO and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

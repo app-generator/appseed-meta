@@ -1,0 +1,34 @@
+{
+    "info": "Jinja CoreUI (free version)",
+    "root_dir": "D:\\work\\repo-misc\\jinja-coreui\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-coreui",
+    "product": "https://appseed.us",
+    "demo": "#",
+    "map": {
+
+        "\"assets/": "\"/static/assets/",
+        "\"css/": "\"/static/assets/css/",
+        "\"js/": "\"/static/assets/js/",
+        "\"vendors/": "\"/static/assets/vendors/",
+        "\"icons/": "\"/",
+
+        "base/": "/base-",
+        "forms/": "/forms-",
+        "notifications/": "/notifications-",
+        "404.html": "/page-404.html",
+        "500.html": "/page-500.html",
+
+        "buttons/buttons.html": "/buttons-all.html",
+        "buttons/button-group.html": "/buttons-group.html",
+        "buttons/dropdowns.html": "/buttons-dropdowns.html",
+
+        "__NA__": "__NA__"
+
+    },
+    "base": {
+        "info": "Star Admin2 Free",
+        "ui": "#",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "info": "Flask Material Kit (free version)",
+    "root_dir": "D:\\work\\repo-creative-tim\\jinja-material-kit\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-material-kit",
+    "product": "https://appseed.us",
+    "demo": "#",
+    "map": {
+        "https://demos.creative-tim.com/material-kit/index": "/",
+        "https://demos.creative-tim.com/material-kit/presentation": "/",
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../pages/": "/",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "presentation.html": "/"
+    },
+    "base": {
+        "info": "Material Kit Free & Flask",
+        "ui": "#",
+        "codebase": "https://github.com/app-generator/boilerplate-code-flask"
+    }
+}

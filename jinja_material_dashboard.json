@@ -1,0 +1,156 @@
+{
+    "info": "Material Dashboard BS5",
+    "root_dir": "D:\\work\\repo-creative-tim\\jinja-material-dashboard\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-material-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-material-dashboard",
+    "demo": "https://jinja-soft-ui-dashboard-pro.appseed-srv1.com/",
+    "map": {
+        "https://demos.creative-tim.com/material-dashboard/dashboard": "/",
+        "../pages/dashboard.html": "/",
+        "dashboard.html": "/",
+        "{% if page.brand == 'RTL' %}ms-2{% else %} me-2{% endif %}": " me-2 ",
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../pages/profile/": "/profile-",
+        "../../pages/profile/": "/profile-",
+        "../pages/profile/": "/profile-",
+        "./pages/profile/": "/profile-",
+        "/pages/profile/": "/profile-",
+
+        "../../../pages/account/": "/account-",
+        "../../pages/account/": "/account-",
+        "../pages/account/": "/account-",
+        "./pages/account/": "/account-",
+        "/pages/account/": "/account-",
+
+        "../../../pages/users/": "/users-",
+        "../../pages/users/": "/users-",
+        "../pages/users/": "/users-",
+        "./pages/users/": "/users-",
+        "/pages/users/": "/users-",
+
+        "../../../pages/projects/": "/projects-",
+        "../../pages/projects/": "/projects-",
+        "../pages/projects/": "/projects-",
+        "./pages/projects/": "/projects-",
+        "/pages/projects/": "/projects-",
+
+        "../../../pages/vr/": "/",
+        "../../pages/vr/": "/",
+        "../pages/vr/": "/",
+        "./pages/vr/": "/",
+        "/pages/vr/": "/",
+
+        "../../../pages/dashboards/default": "/index",
+        "../../pages/dashboards/default": "/index",
+        "../pages/dashboards/default": "/index",
+        "./pages/dashboards/default": "/index",
+        "/pages/dashboards/default": "/index",
+
+        "../../../pages/dashboards/vr/": "/dashboards-",
+        "../../pages/dashboards/vr/": "/dashboards-",
+        "../pages/dashboards/vr/": "/dashboards-",
+        "./pages/dashboards/vr/": "/dashboards-",
+        "/pages/dashboards/vr/": "/dashboards-",
+
+        "../../../pages/dashboards/": "/dashboards-",
+        "../../pages/dashboards/": "/dashboards-",
+        "../pages/dashboards/": "/dashboards-",
+        "./pages/dashboards/": "/dashboards-",
+        "/pages/dashboards/": "/dashboards-",
+
+        "../../../pages/pages/orders/": "/ecommerce-orders-",
+        "../../pages/pages/orders/": "/ecommerce-orders-",
+        "../pages/pages/orders/": "/ecommerce-orders-",
+        "./pages/pages/orders/": "/ecommerce-orders-",
+        "/pages/pages/orders/": "/ecommerce-orders-",
+
+        "../../../pages/ecommerce/orders/": "/ecommerce-orders-",
+        "../../pages/ecommerce/orders/": "/ecommerce-orders-",
+        "../pages/ecommerce/orders/": "/ecommerce-orders-",
+        "./pages/ecommerce/orders/": "/ecommerce-orders-",
+        "/pages/ecommerce/orders/": "/ecommerce-orders-",
+
+        "../../../pages/ecommerce/products/": "/ecommerce-",
+        "../../pages/ecommerce/products/": "/ecommerce-",
+        "../pages/ecommerce/products/": "/ecommerce-",
+        "./pages/ecommerce/products/": "/ecommerce-",
+        "/pages/ecommerce/products/": "/ecommerce-",
+
+        "../../../pages/ecommerce/": "/ecommerce-",
+        "../../pages/ecommerce/": "/ecommerce-",
+        "../pages/ecommerce/": "/ecommerce-",
+        "./pages/ecommerce/": "/ecommerce-",
+        "/pages/ecommerce/": "/ecommerce-",
+
+        "../../../pages/applications/": "/applications-",
+        "../../pages/applications/": "/applications-",
+        "../pages/applications/": "/applications-",
+        "./pages/applications/": "/applications-",
+        "/pages/applications/": "/applications-",
+
+        "../../../pages/authentication/error/": "/page-",
+        "../../pages/authentication/error/": "/page-",
+        "../pages/authentication/error/": "/page-",
+        "./pages/authentication/error/": "/page-",
+        "/pages/authentication/error/": "/page-",
+
+        "../../../pages/authentication/lock/": "/authentication-lock-",
+        "../../pages/authentication/lock/": "/authentication-lock-",
+        "../pages/authentication/lock/": "/authentication-lock-",
+        "./pages/authentication/lock/": "/authentication-lock-",
+        "/pages/authentication/lock/": "/authentication-lock-",
+
+        "../../../pages/authentication/reset/": "/authentication-reset-",
+        "../../pages/authentication/reset/": "/authentication-reset-",
+        "../pages/authentication/reset/": "/authentication-reset-",
+        "./pages/authentication/reset/": "/authentication-reset-",
+        "/pages/authentication/reset/": "/authentication-reset-",
+
+        "../../../pages/authentication/signin/": "/authentication-signin-",
+        "../../pages/authentication/signin/": "/authentication-signin-",
+        "../pages/authentication/signin/": "/authentication-signin-",
+        "./pages/authentication/signin/": "/authentication-signin-",
+        "/pages/authentication/signin/": "/authentication-signin-",
+
+        "../../../pages/authentication/signup/": "/authentication-signup-",
+        "../../pages/authentication/signup/": "/authentication-signup-",
+        "../pages/authentication/signup/": "/authentication-signup-",
+        "./pages/authentication/signup/": "/authentication-signup-",
+        "/pages/authentication/signup/": "/authentication-signup-",
+
+        "../../../pages/authentication/verification/": "/authentication-verification-",
+        "../../pages/authentication/verification/": "/authentication-verification-",
+        "../pages/authentication/verification/": "/authentication-verification-",
+        "./pages/authentication/verification/": "/authentication-verification-",
+        "/pages/authentication/verification/": "/authentication-verification-",
+
+        "../../../examples/": "/",
+        "../../examples/": "/",
+        "../examples/": "/",
+        "./examples/": "/",
+
+        "../../../pages/": "/",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "/pages/": "/",
+
+        "/dashboards-analytics.html": "/"
+    },
+    "base": {
+        "info": "Soft UI PRO and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
