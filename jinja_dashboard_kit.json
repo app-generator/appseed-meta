@@ -1,0 +1,18 @@
+{
+    "info": "Jinja DashboardKit (free version)",
+    "root_dir": "D:\\work\\repo-codedthemes\\jinja-dashboard-kit\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-dashboard-kit",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit.appseed-srv1.com/",
+    "map": {
+        "../index.html": "/",
+        "./index.html": "/",
+        "assets/": "/static/assets/"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "info": "Jinja DashboardKit (free version)",
+    "root_dir": "D:\\work\\repo-codedthemes\\priv-jinja-dashboard-kit-pro\\",
+    "templates": ["app\\templates\\"],
+    "repo": "https://github.com/app-generator/priv-jinja-dashboard-kit-pro",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit-pro.appseed-srv1.com/",
+    "map": {
+        "../index.html": "/",
+        "./index.html": "/",
+        "../assets/": "/static/assets/",
+        "./assets/": "/static/assets/",
+
+        "../admin-panel/": "/admin-",
+        "admin-panel/": "/admin-",
+
+        "../apps/": "/apps-",
+        "apps/": "/apps-",
+
+        "../chart-maps/": "/cm-",
+        "chart-maps/": "/cm-",
+
+        "../elements/": "/ui-",
+        "elements/": "/ui-",
+
+        "../extension/": "/extension-",
+        "extension/": "/extension-",
+
+        "../forms/": "/forms-",
+        "forms/": "/forms-",
+
+        "../layouts/": "/layouts-",
+        "layouts/": "/layouts-",
+
+        "../other/sample-page": "/page-sample",
+        "other/sample-page": "/page-sample",
+
+        "../pages/": "/page-",
+        "pages/": "/page-",
+
+        "../table/": "/tables-",
+        "table/": "/tables-",
+
+        "../navigation/": "/",
+        "navigation/": "/",
+
+        "assets/js//page-dashboard-sale.js": "assets/js/pages/dashboard-sale.js",
+        "assets/js//page-dashboard-main.js": "assets/js/pages/dashboard-main.js"
+
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

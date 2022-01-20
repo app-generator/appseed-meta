@@ -1,6 +1,6 @@
 {
     "info": "Flask Material Kit (free version)",
-    "root_dir": "D:\\work\\repo-creative-tim\\jinja-material-kit\\",
+    "root_dir": "D:\\work\\repo-free\\jinja-material-kit\\",
     "templates": ["app\\templates\\"],
     "repo": "https://github.com/app-generator/jinja-material-kit",
     "product": "https://appseed.us",
@@ -9,21 +9,47 @@
         "https://demos.creative-tim.com/material-kit/index": "/",
         "https://demos.creative-tim.com/material-kit/presentation": "/",
 
-        "../../../index.html": "/",
-        "../../index.html": "/",
-        "../index.html": "/",
-        "./index.html": "/",
+        "../../../presentation.html": "/",
+        "../../presentation.html": "/",
+        "../presentation.html": "/",
+        "./presentation.html": "/",
 
         "../../../assets": "/static/assets",
         "../../assets": "/static/assets",
         "../assets": "/static/assets",
         "./assets": "/static/assets",
 
+        "../../sections/attention-catchers/": "/ui-catchers-",
+        "../sections/attention-catchers/": "/ui-catchers-",
+        "./sections/attention-catchers/": "/ui-catchers-",
+
+        "../../sections/elements/": "/ui-elements-",
+        "../sections/elements/": "/ui-elements-",
+        "./sections/elements/": "/ui-elements-",
+
+        "../../sections/input-areas/": "/ui-input-",
+        "../sections/input-areas/": "/ui-input-",
+        "./sections/input-areas/": "/ui-input-",
+
+        "../../sections/navigation/": "/ui-navigation-",
+        "../sections/navigation/": "/ui-navigation-",
+        "./sections/navigation/": "/ui-navigation-",
+
+        "../../sections/page-sections/": "/ui-sections-",
+        "../sections/page-sections/": "/ui-sections-",
+        "./sections/page-sections/": "/ui-sections-",
+
         "../../../pages/": "/",
         "../../pages/": "/",
         "../pages/": "/",
         "./pages/": "/",
-        "presentation.html": "/"
+
+        ".//sections/page-sections/hero-sections.html": "/ui-sections-features.html",
+        "https://github.com/creativetimofficial/material-kit": "https://github.com/app-generator/flask-material-kit",
+        "https://www.creative-tim.com/product/material-kit-pro": "https://appseed.us/product/flask-material-kit2-pro",
+        "https://www.creative-tim.com/product/material-kit": "https://appseed.us/apps/flask-apps/flask-material-kit",
+        "https://demos.creative-tim.com/material-kit-pro/index#pricing-soft-ui": "https://appseed.us/product/flask-material-kit2-pro",
+        "Get the Code": "Pro Element"
     },
     "base": {
         "info": "Material Kit Free & Flask",
