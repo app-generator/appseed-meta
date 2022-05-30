@@ -1,6 +1,6 @@
 {
     "info": "Soft UI Dashboard",
-    "root_dir": "D:\\work\\repo-creative-tim\\jinja-soft-ui-dashboard\\",
+    "root_dir": "D:\\work\\repo-free\\jinja-soft-ui-dashboard\\",
     "templates": ["app\\templates\\", "app\\static\\assets\\css", "app\\static\\assets\\js"],
     "repo": "https://github.com/app-generator/jinja-soft-ui-dashboard",
     "product": "https://appseed.us/jinja-template/jinja-soft-ui-dashboard",
