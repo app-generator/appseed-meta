@@ -1,6 +1,6 @@
 {
-    "info": "Soft UI Dashboard",
-    "root_dir": "D:\\work\\repo-creative-tim\\priv-jinja-soft-ui-dashboard-pro\\",
+    "info": "Soft UI Dashboard PRO",
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-soft-ui-dashboard-pro\\",
     "templates": ["app\\templates\\"],
     "repo": "https://github.com/app-generator/priv-jinja-soft-ui-dashboard-pro",
     "product": "https://appseed.us/jinja-template/jinja-soft-ui-dashboard-pro",
@@ -138,7 +138,8 @@
         "./pages/": "/",
         "/pages/": "/",
 
-        "dashboards-virtual-reality.html": "dashboards-vr-default.html"
+        "dashboards-virtual-reality.html": "dashboards-vr-default.html",
+        "dashboards-default.html": "/"
     },
     "base": {
         "info": "Soft UI PRO and Jinja Codebase",
