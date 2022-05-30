@@ -1,0 +1,65 @@
+{
+    "info": "Jinja Datta Able PRO",
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-datta-able-pro\\",
+    "templates": ["apps\\templates\\"], 
+    "repo": "https://github.com/app-generator/jinja-sb-admin",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-sb-admin.appseed-srv1.com/",
+    "map": {
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../navigation/index.html": "index.html",
+        "../navigation/index.html": "index.html",
+        "navigation/index.html": "index.html",
+
+        "../../navigation/": "/",
+        "../navigation/": "/",
+        "./navigation/": "/",
+
+        "../../element/": "/elements-",
+        "../element/": "/elements-",
+        "./element/": "/elements-",        
+
+        "../../forms/": "/forms-",
+        "../forms/": "/forms-",
+        "./forms/": "/forms-",         
+
+        "../../table/": "/table-",
+        "../table/": "/table-",
+        "./table/": "/table-",       
+        
+        "../../chart-maps/": "/",
+        "../chart-maps/": "/",
+        "./chart-maps/": "/",         
+
+        "../../pages/": "/pages-",
+        "../pages/": "/pages-",
+        "./pages/": "/pages-",          
+
+        "../../apps/": "/apps-",
+        "../apps/": "/apps-",
+        "./apps/": "/apps-",          
+
+        "../../extension/": "/extension-",
+        "../extension/": "/extension-",
+        "./extension/": "/extension-",           
+
+        "../../other/": "/",
+        "../other/": "/",
+        "./other/": "/",  
+
+        "../../\"index.html": "/",
+        "../\"index.html": "/",
+        "./\"index.html": "\"/",
+        "\"index.html": "\"/",
+
+        "__NA__": "__NA__.html"
+    },
+    "base": {
+        "info": "Sb Admin and Jinja Codebase",
+        "ui": "",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

@@ -1,0 +1,3 @@
+- "navigation" folder goes in root
+- "other" folder content goes in root
+- "chart-maps" folder content goes in root
