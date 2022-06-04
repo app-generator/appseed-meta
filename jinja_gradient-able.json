@@ -1,0 +1,35 @@
+{
+    "info": "Gradient Able BS5 (free version)",
+    "root_dir": "D:\\work\\repo-free\\jinja-gradient-able\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-dashboard-kit",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit.appseed-srv1.com/",
+    "map": {
+
+        "../index.html": "/",
+        "./index.html": "/",
+        "href=\"../index.html": "href=\"/",
+        "href=\"index.html":"href=\"/",
+        "href=\"assets/": "href=\"/static/assets/",
+        "src=\"assets/": "src=\"/static/assets/",
+        "href=\"bc_":"href=\"/bc_",
+        "href=\"icon-":"href=\"/icon-",
+        "href=\"tbl_":"href=\"/tbl_",
+        "href=\"chart":"href=\"/chart",
+        "href=\"map":"href=\"/map",
+        "href=\"auth":"href=\"/auth",
+        "href=\"sample":"href=\"/sample",
+        "src=\"../assets":"src=\"/static/assets",
+        "href=\"../assets":"href=\"/static/assets",
+
+        "https://codedthemes.com/item/gradient-able-admin-template/":"https://appseed.us/product/gradient-able-pro/flask/",
+
+        "__NA__": "__NA__.html"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

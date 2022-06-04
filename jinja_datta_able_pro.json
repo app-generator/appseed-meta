@@ -55,6 +55,35 @@
         "./\"index.html": "\"/",
         "\"index.html": "\"/",
 
+        "https://codedthemes.support-hub.io/":"https://appseed.us/support/",
+
+        "href=\"dashboard":"href=\"/dashboard",
+        "href=\"layout":"href=\"/layout",
+        "href=\"widget":"href=\"/widget",
+        "href=\"bc_":"href=\"/elements-bc_",
+        "href=\"ac_":"href=\"/elements-ac_",
+        "href=\"icon-":"href=\"/elements-icon-",
+        "href=\"tbl_bootstrap":"href=\"/table-tbl_bootstrap",
+        "href=\"chart-":"href=\"/chart-chart-",
+        "href=\"map-":"href=\"/map-",
+        "auth-Personal-Information.html":"auth-personal-information.html",
+        "href=\"auth-":"href=\"/pages-auth-",
+        "href=\"maint-":"href=\"/pages-maint-",
+        "href=\"task-":"href=\"/apps-task-",
+        "href=\"todo.html":"href=\"apps-todo.html",
+        "href=\"notes.html":"href=\"#",
+        "href=\"gallery-grid.html":"href=\"#",
+        "href=\"gallery-masonry.html":"href=\"#",
+        "href=\"gallery-advance.html":"href=\"#",
+        "href=\"editor-":"href=\"forms-editor-",
+        "href=\"editor-tinymce.html":"href=\"#",
+        "href=\"file-upload.html":"href=\"#",
+        "href=\"full-calendar":"href=\"/extension-full-calendar",
+        "href=\"invoice":"href=\"/extension-invoice",
+        "href=\"/layout-navbg.html":"href=\"#",
+
+        "dashboard-sale":"dashboard-ecommerce",
+        
         "__NA__": "__NA__.html"
     },
     "base": {
