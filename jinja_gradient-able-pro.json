@@ -1,0 +1,42 @@
+{
+    "info": "Gradient Able BS5 (PRO version)",
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-gradient-able-pro\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-dashboard-kit",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit.appseed-srv1.com/",
+    "map": {
+
+        "../index.html": "/",
+        "./index.html": "/",
+        "href=\"../index.html": "href=\"/",
+        "href=\"index.html":"href=\"/",
+        "href=\"assets/": "href=\"/static/assets/",
+        "src=\"assets/": "src=\"/static/assets/",
+
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+        
+        "../navigation/index.html": "/",
+        "../navigation/": "/navigation-",
+        "../element/": "/element-",
+        "../forms/": "/forms-",
+        "../table/": "/table-",
+        "../chart-maps/": "/",
+        "../pages/":"/pages-",
+        "../apps/":"/apps-",
+        "../extension/":"/extension-",
+        "../other/":"/",
+        "url(assets":"url(/static/assets",
+
+        "navigation/index.html" : "/", 
+
+        "__NA__": "__NA__.html"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
