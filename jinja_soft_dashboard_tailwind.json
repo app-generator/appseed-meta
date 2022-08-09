@@ -1,7 +1,7 @@
 {
     "info": "Soft UI Dashboard",
-    "root_dir": "D:\\work\\repo-free\\jinja-soft-ui-dashboard\\",
-    "templates": ["app\\templates\\", "app\\static\\assets\\css", "app\\static\\assets\\js"],
+    "root_dir": "D:\\work\\repo-free\\jinja-soft-dashboard-tailwind\\",
+    "templates": ["apps\\templates\\"],
     "repo": "https://github.com/app-generator/jinja-soft-ui-dashboard",
     "product": "https://appseed.us/jinja-template/jinja-soft-ui-dashboard",
     "demo": "https://jinja-soft-ui-dashboard.appseed-srv1.com/",

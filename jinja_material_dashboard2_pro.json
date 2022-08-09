@@ -50,11 +50,11 @@
         "./pages/vr/": "/",
         "/pages/vr/": "/",
 
-        "../../../pages/dashboards/default": "/index",
-        "../../pages/dashboards/default": "/index",
-        "../pages/dashboards/default": "/index",
-        "./pages/dashboards/default": "/index",
-        "/pages/dashboards/default": "/index",
+        "../../../pages/dashboards/analytics": "/index",
+        "../../pages/dashboards/analytics": "/index",
+        "../pages/dashboards/analytics": "/index",
+        "./pages/dashboards/analytics": "/index",
+        "/pages/dashboards/analytics": "/index",
 
         "../../../pages/dashboards/vr/": "/dashboards-",
         "../../pages/dashboards/vr/": "/dashboards-",

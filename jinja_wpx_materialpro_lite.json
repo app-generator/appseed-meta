@@ -1,0 +1,32 @@
+{
+    "info": "WPX MaterialPRO Lite BS5 (free version)",
+    "root_dir": "D:\\work\\repo-free\\jinja-materialpro-lite\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-dashboard-kit",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit.appseed-srv1.com/",
+    "map": {
+
+        "../index.html": "/",
+        "./index.html": "/",
+        "href=\"../index.html": "href=\"/",
+        "href=\"index.html":"href=\"/",
+
+        "href=\"assets/": "href=\"/static/assets/",
+        "src=\"assets/": "src=\"/static/assets/",
+
+        "href=\"css":"href=\"/static/assets/css",
+        "src=\"js":"src=\"/static/assets/js",
+
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "__NA__": "__NA__.html"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "info": "WPX MaterialPRO Lite BS5 (PRO version)",
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-materialpro\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-dashboard-kit",
+    "product": "https://appseed.us",
+    "demo": "https://jinja-dashboard-kit.appseed-srv1.com/",
+    "map": {
+
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "href=\"index":"href=\"/index",
+        "href=\"layout":"href=\"/layout",        
+        "href=\"page-":"href=\"/page-", 
+        "href=\"app-":"href=\"/app-",
+        "href=\"inbox-":"href=\"/inbox-",
+        "href=\"ticket-":"href=\"/ticket-",
+        "href=\"ui-":"href=\"/ui-",
+        "href=\"component-":"href=\"/component-",
+        "href=\"widgets-":"href=\"/widgets-",
+        "href=\"form-":"href=\"/form-",
+        "href=\"table-":"href=\"/table-",
+        "href=\"chart-":"href=\"/chart-",
+        "href=\"eco-":"href=\"/eco-",
+        "href=\"starter-":"href=\"/starter-",
+        "href=\"pages-":"href=\"/pages-",
+        "href=\"authentication-":"href=\"/authentication-",
+        "href=\"map-":"href=\"/map-",
+        "href=\"icon-":"href=\"/icon-",
+        "href=\"timeline-":"href=\"/timeline-",
+        "href=\"email-":"href=\"/email-",
+        "href=\"error-":"href=\"/error-",
+
+        "href=\"assets/": "href=\"/static/assets/",
+        "src=\"assets/": "src=\"/static/assets/",
+
+        "href=\"css":"href=\"/static/assets/css",
+        "src=\"js":"src=\"/static/assets/js",
+
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../dist": "/static/assets",
+        "../dist": "/static/assets",
+        "./dist": "/static/assets",        
+
+        "error-400.html":"page-400.html",
+        "error-403.html":"page-403.html",
+        "error-404.html":"page-404.html",
+        "error-500.html":"page-500.html",
+        "error-503.html":"page-503.html",
+
+        "__NA__": "__NA__.html"
+    },
+    "base": {
+        "info": "Volt Bootstrap 5 and Jinja Codebase",
+        "ui": "base_volt_bootstrap_5_dashboard.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
