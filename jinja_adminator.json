@@ -1,0 +1,31 @@
+{
+    "info": "Jinja Adminator (free version)",
+    "root_dir": "D:\\work\\repo-free\\jinja-adminator\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-coreui",
+    "product": "https://appseed.us",
+    "demo": "#",
+    "map": {
+
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "404.html":"page-404.html",
+        "500.html":"page-500.html",
+
+        "\"../assets": "\"/static/assets",
+        "\"./assets": "\"/static/assets",
+        "\"/assets": "\"/static/assets",
+        "\"assets": "\"/static/assets",
+        "'assets":"'/static/assets",
+
+        "__NA__": "__NA__"
+
+    },
+    "base": {
+        "info": "Star Admin2 Free",
+        "ui": "#",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
