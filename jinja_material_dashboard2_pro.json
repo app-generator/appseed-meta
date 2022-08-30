@@ -1,12 +1,12 @@
 {
     "info": "Material Dashboard PRO BS5",
-    "root_dir": "D:\\work\\repo-creative-tim\\priv-jinja-material-dashboard2-pro\\",
-    "templates": ["app\\templates\\"],
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-material-dashboard2-pro\\",
+    "templates": ["apps\\templates\\"],
     "repo": "https://github.com/app-generator/priv-jinja-material-dashboard2-pro",
     "product": "https://appseed.us/jinja-template/priv-jinja-material-dashboard2-pro",
     "demo": "https://jinja-material-dashboard2-pro.appseed-srv1.com/",
     "map": {
-        "https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html": "/",
+        " https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html ": "/",
         "dashboard.html": "/",
         "{% if page.brand == 'RTL' %}ms-2{% else %} me-2{% endif %}": " me-2 ",
 
