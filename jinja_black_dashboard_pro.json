@@ -1,0 +1,77 @@
+{
+    "info": "Argon Dashboard BS5",
+    "root_dir": "D:\\work\\repo-pro\\priv-jinja-black-dashboard-pro\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-argon-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-material-dashboard",
+    "demo": "https://jinja-soft-ui-dashboard-pro.appseed-srv1.com/",
+    "map": {
+
+        " https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html ": "/",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../examples/dashboard.html": "/",
+        "../../examples/dashboard.html": "/",
+        "../examples/dashboard.html": "/",
+        "./examples/dashboard.html": "/",
+
+        "../../../examples/pages/": "/page-",
+        "../../examples/pages/": "/page-",
+        "../examples/pages/": "/page-",
+        "./examples/pages/": "/page-",
+
+        "../../../examples/components/": "/components-",
+        "../../examples/components/": "/components-",
+        "../examples/components/": "/components-",
+        "./examples/components/": "/components-",
+
+        "../../../examples/forms/": "/forms-",
+        "../../examples/forms/": "/forms-",
+        "../examples/forms/": "/forms-",
+        "./examples/forms/": "/forms-",
+
+        "../../../examples/tables/": "/tables-",
+        "../../examples/tables/": "/tables-",
+        "../examples/tables/": "/tables-",
+        "./examples/tables/": "/tables-", 
+
+        "../../../examples/maps/": "/maps-",
+        "../../examples/maps/": "/maps-",
+        "../examples/maps/": "/maps-",
+        "./examples/maps/": "/maps-",    
+
+        "../../examples/calendar.html": "/calendar.html",
+        "../examples/calendar.html": "/calendar.html",
+
+        "../../examples/charts.html": "/charts.html",
+        "../examples/charts.html": "/charts.html",
+
+        "../../examples/widgets.html": "/widgets.html",
+        "../examples/widgets.html": "/widgets.html",
+
+        "href=\"../lock.html":"href=\"/page-lock.html",
+        "href=\"lock.html":"href=\"/page-lock.html",
+
+        "href=\"../pricing.html":"href=\"/page-pricing.html",
+        "href=\"pricing.html":"href=\"/page-pricing.html",
+
+        "href=\"../login.html":"href=\"/page-login.html",
+        "href=\"login.html":"href=\"/page-login.html",
+
+        "href=\"../register.html":"href=\"/page-register.html",
+        "href=\"register.html":"href=\"/page-register.html",
+
+        "href=\"../../dashboard.html": "href=\"/",
+        "href=\"../dashboard.html": "href=\"/"
+
+    },
+    "base": {
+        "info": "Argon Dashboard BS5 and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
