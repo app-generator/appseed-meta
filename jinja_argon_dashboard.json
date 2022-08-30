@@ -1,0 +1,38 @@
+{
+    "info": "Argon Dashboard BS5",
+    "root_dir": "D:\\work\\repo-free\\jinja-argon-dashboard\\",
+    "templates": ["apps\\templates\\"],
+    "repo": "https://github.com/app-generator/jinja-argon-dashboard",
+    "product": "https://appseed.us/jinja-template/jinja-material-dashboard",
+    "demo": "https://jinja-soft-ui-dashboard-pro.appseed-srv1.com/",
+    "map": {
+        " https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html ": "/",
+        "../pages/dashboard.html": "/",
+        "dashboard.html": "/",
+        "{% if page.brand == 'RTL' %}ms-2{% else %} me-2{% endif %}": " me-2 ",
+        "https://www.creative-tim.com/product/argon-dashboard":"https://appseed.us/product/argon-dashboard/flask/",
+
+        "../../../index.html": "/",
+        "../../index.html": "/",
+        "../index.html": "/",
+        "./index.html": "/",
+
+        "../../../assets": "/static/assets",
+        "../../assets": "/static/assets",
+        "../assets": "/static/assets",
+        "./assets": "/static/assets",
+
+        "../../../pages/": "/",
+        "../../pages/": "/",
+        "../pages/": "/",
+        "./pages/": "/",
+        "/pages/": "/",
+
+        "/dashboards-analytics.html": "/"
+    },
+    "base": {
+        "info": "Argon Dashboard BS5 and Jinja Codebase",
+        "ui": "na.json",
+        "codebase": "https://github.com/app-generator/boilerplate-code-jinja"
+    }
+}
